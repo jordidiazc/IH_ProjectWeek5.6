@@ -1,4 +1,4 @@
-Vanguard Project
+VANGUARD PROJECT
 
 In this project I have carried out an A/B data analysis between the current website of a company and its new version to see if the new version increases the number of income of the company
 
